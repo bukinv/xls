@@ -1,11 +1,13 @@
-h1 {
-    color: red;
+h1, div {
+  background-color: lightblue;
 }
-
-p {
-    color: blue;
+h1{
+  height: 100px;
+  width: 50%;
 }
-
-body {
-    background-color: green;
+div{
+  width: 200px;
+  padding: 25px;
+  border:25px dotted red;
+  margin: 25px;
 }
